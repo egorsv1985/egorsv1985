@@ -16,12 +16,10 @@
 <img src="https://media.giphy.com/media/S9Kh03BS3cjZjxeBrn/giphy.gif" width="150"/>
 </div> 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+- :telescope: I’m working as a frontend for building web sites.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time I read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-egor-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/egor-sabantsau-10099019b)
 ### :hammer_and_wrench: Languages and Tools :
