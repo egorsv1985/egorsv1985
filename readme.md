@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
 </div>
 <div id="badges">
 <a href="www.linkedin.com/in/egor-sabantsau-10099019b">
@@ -9,11 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=egorsv1985&style=flat-square&color=blue" alt=""/>
   <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
 <div id="about" align="center">
-<img src="https://media.giphy.com/media/S9Kh03BS3cjZjxeBrn/giphy.gif" width="60"/>
+<img src="https://media.giphy.com/media/S9Kh03BS3cjZjxeBrn/giphy.gif" width="150"/>
 </div> 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
@@ -37,5 +37,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=egorsv1985&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=egorsv1985&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egorsv1985&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
