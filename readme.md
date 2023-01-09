@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
 </div>
 <div id="badges">
-<a href="https://www.linkedin.com/in/egor-sabantsau/">
+<a href="https://www.linkedin.com/in/egor-sabantsau-10099019b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
@@ -21,7 +21,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time I read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-egor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/egor-sabantsau/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-egor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/egor-sabantsau-10099019b/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
